@@ -1,0 +1,45 @@
+# Field Hockey Game - File Structure and Documentation
+
+## Project Structure, this will be code for web and mobile , will try and keep code capable of running in multiple env and built in python
+
+## Game Flow
+
+1. Game Setup
+   - Two teams of 11 players each
+   - Field dimensions: 100 yards x 60 yards
+   - Required equipment: hockey sticks, ball,colour
+
+2. Game Duration
+   - Four 45 seconds quarters
+   - 5 seconds break break between quarters
+   - 10-seconds halftime break
+
+3. Basic Rules
+   - Players can only use the flat side of their stick depends on facing side
+   - Ball can only be touched with the stick (except by goalkeeper),3 position will be stick
+   - No body contact or dangerous play, when 2 spaces covered which are not stick
+   - Goals scored only from within the shooting circle
+
+4. Scoring
+   - 1 point per goal
+   - Team with most goals at end wins
+   - Ties may go to overtime/shootout depending on competition rules
+
+5. Common Fouls
+   - Stick interference : 2 postion of stick comes in contact with 2 position of stick then its infringement
+   - Dangerous play: raising the ball, 1 out of 33 times this randomly happens for players
+   - Playing ball above shoulder height 
+
+6. Penalties
+      - Penalty corners
+   - Penalty strokes
+   - Green, yellow, and red cards for misconduct
+
+7. Officials
+   - one field umpire
+
+
+8. Game End
+   - Final whistle after fourth quarter
+   - Team with highest score wins
+   - Post-game handshakes and celebrations
